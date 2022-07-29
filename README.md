@@ -2,7 +2,11 @@
 
 
 DeClone is a software for the prediction of ancestral adjacencies in reconciled
- gene trees.
+ gene trees.  
+ 
+It is described in  
+Cedric Chauve, Yann Ponty & João Paulo Pereira Zanetti; "Evolution of genes neighborhood within reconciled phylogenies: an ensemble approach."
+BMC Bioinformatics 16:S6 (2015). https://doi.org/10.1186/1471-2105-16-S19-S6  
 
 ## 1. Installation/requirements
  DeClone requires the following pieces of software to be installed prior to 
